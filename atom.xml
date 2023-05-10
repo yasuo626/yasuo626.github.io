@@ -6,7 +6,7 @@
   <link href="http://aisic.cn/atom.xml" rel="self"/>
   
   <link href="http://aisic.cn/"/>
-  <updated>2023-05-10T08:21:16.937Z</updated>
+  <updated>2023-05-10T08:31:30.488Z</updated>
   <id>http://aisic.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>DNN1:model transfer</title>
-    <link href="http://aisic.cn/2023/05/10/DNN1/"/>
-    <id>http://aisic.cn/2023/05/10/DNN1/</id>
-    <published>2023-05-10T08:00:00.000Z</published>
-    <updated>2023-05-10T08:21:16.937Z</updated>
+    <title>model transfer</title>
+    <link href="http://aisic.cn/2023/05/10/model-transfer/"/>
+    <id>http://aisic.cn/2023/05/10/model-transfer/</id>
+    <published>2023-05-10T08:31:18.000Z</published>
+    <updated>2023-05-10T08:31:30.488Z</updated>
     
     
       
@@ -31,8 +31,6 @@
     
     
     
-    
-    <category term="DNN" scheme="http://aisic.cn/tags/DNN/"/>
     
   </entry>
   
