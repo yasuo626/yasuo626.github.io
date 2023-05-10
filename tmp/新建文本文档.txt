@@ -1,0 +1,15 @@
+---
+title: International Journals and Conferences links of CS and AI
+date: 2023-04-27 11:18:09
+sticky: 100
+tags:
+---
+
+
+# CMAKE
+
+#QT5
+sudo apt-get install build-essential
+sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+sudo apt-get install qtcreator
+sudo apt-get install qt5*
